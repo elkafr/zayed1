@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "59134494513",
+    "firebase_url": "https://souq-zayd.firebaseio.com",
+    "project_id": "souq-zayd",
+    "storage_bucket": "souq-zayd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59134494513:android:7946da9862cf81aa555210",
+        "android_client_info": {
+          "package_name": "com.art4muslim.zayed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59134494513-nn45usag1a45rt6keeef5ielfl29orgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgpLwAaSyTWyvGlDDaDG4t3_d33bR9o3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59134494513-nn45usag1a45rt6keeef5ielfl29orgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
